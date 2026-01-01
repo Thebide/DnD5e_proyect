@@ -1,0 +1,12 @@
+
+
+{
+    "Class":{
+            "Barbarian": {"hit_dice_by_class": 12,"saving_throws_by_class": ["strength", "constitution"]},
+            "Fighter": {"hit_dice_by_class": 10, "saving_throws_by_class": ["strength", "constitution"]},
+            "Paladin": {"hit_dice_by_class": 10, "saving_throws_by_class": ["wisdom", "charisma"]},
+            "Ranger": {"hit_dice_by_class": 10, "saving_throws_by_class": ["strength", "dexterity"]},
+            "Rogue": {"hit_dice_by_class": 8, "saving_throws_by_class": ["dexterity", "intelligence"]},
+            "Wizard": {"hit_dice_by_class": 6, "saving_throws_by_class": ["intelligence", "wisdom"]}
+    }
+}
